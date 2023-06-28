@@ -19,7 +19,13 @@
         "region": "País Vasco",
         "municipality": "Bilbao"
       }
-    }
+    },
+    "relevantLinks": [
+      {
+        "type": "other",
+        "URL": "https://synctionlabs.com"
+      }
+    ]
   },
   "careerPreferences": {
     "contact": {
