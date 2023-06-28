@@ -9,6 +9,10 @@
       "name": "Rubén",
       "surnames": "García Hernando",
       "title": "Title",
+      "avatar": {
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/06/28/a9ba3f1c-51b4-4fea-bbd5-45a8b20e5bb9_836a906d-c2a9-47e6-b.jpeg",
+        "alt": "836A906D-C2A9-47E6-B798-104AC82EECE1_1_105_c.jpeg"
+      },
       "location": {
         "notes": "Autocompleted using Google Maps API (id: ChIJuYlLZidOTg0RRaaVHsSsNGU)",
         "country": "España",
