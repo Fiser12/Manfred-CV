@@ -188,6 +188,11 @@
         }
       ]
     },
+    "preferences": {
+      "preferredRoles": [
+        "Product Owner"
+      ]
+    },
     "status": "searchingActively"
   }
 }
