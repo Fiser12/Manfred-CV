@@ -23,6 +23,12 @@
   },
   "careerPreferences": {
     "contact": {
+      "publicProfiles": [
+        {
+          "URL": "https://www.linkedin.com/in/rgarciah/",
+          "type": "linkedin"
+        }
+      ],
       "contactMails": [
         "fiser12@icloud.com"
       ],
