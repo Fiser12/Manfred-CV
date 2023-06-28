@@ -190,6 +190,7 @@
     },
     "preferences": {
       "preferredRoles": [
+        "Frontend Developer",
         "Mobile Developer",
         "Product Owner"
       ]
