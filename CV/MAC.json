@@ -37,6 +37,10 @@
       {
         "name": "ES",
         "level": "Native or bilingual proficiency"
+      },
+      {
+        "name": "EU",
+        "level": "Limited working proficiency"
       }
     ],
     "hardSkills": [
