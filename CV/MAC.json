@@ -68,6 +68,45 @@
             ]
           }
         ]
+      },
+      {
+        "organization": {
+          "name": "Lin3s",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/06/28/eb368675-7534-4f11-8df5-a09662466e9c_lin3s.jpeg",
+            "alt": "lin3s.jpeg"
+          }
+        },
+        "roles": [
+          {
+            "name": "Full Stack Developer",
+            "startDate": "2017-03-01",
+            "finishDate": "2019-08-01",
+            "challenges": [
+              {
+                "description": "I began my career working on **backend projects**, primarily using **Symfony and Sylius** to create **REST APIs**. I also gained experience with **Drupal 8** while working on a major project for **Euskaltel's website**. My role involved programming part of the backend for the new site, including its Drupal administration system and shopping cart, through a REST API. I applied **Domain Driven Design, BDD and TDD testing, CQRS, and Clean Architecture** principles.\n\nThe **Euskaltel Web Project** was particularly useful in my professional development, as it taught me the importance of quality in large-scale projects. Despite eventually transitioning from backend to frontend programming, this project left a lasting impact on my approach to software development.\n\n![I worked in the custom shopping cart of the REST API of the euskatel API](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b75b1555-ede5-48df-9ad0-88f6709a8b70/Untitled.png)\n\nI worked in the custom shopping cart of the REST API of the euskatel API\n\nDuring this time, I was also working on my **Master's thesis**, which focused on best practices in project development, particularly in the backend. My research expanded to include **Docker and DevOps**, and I later applied this knowledge to deploy new projects using Docker and automate testing, development, and production environments.\n\nAfter completing the Euskaltel project and my thesis, I took on increased responsibilities and started a new internal project for a client. I first focused on organizing the backend and implementing **Docker and DevOps** before moving on to redesign the frontend. To do so, I acquired training in **React and Redux** and developed the frontend architecture.\n\nThis project provided valuable learning experiences, as it was my first time assuming the role of a **software architect**. The system I developed replaced the old management system and is being configured for new customers. It also allowed me to apply my backend knowledge of good development practices to frontend development using React and Redux.\n\nDuring this period, I continued working on small personal projects in **Swift**, including a tvOS application. I was drawn to Swift due to its strong typing and the quality of software it enabled. In addition, I purchased a home server and set up **Docker-based systems** for automating information backups and managing home automation. This experience further deepened my understanding of Docker and high availability services."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Docker",
+                "type": "technology"
+              },
+              {
+                "name": "Git",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "Symfony",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
