@@ -28,16 +28,6 @@
       }
     ]
   },
-  "knowledge": {
-    "hardSkills": [
-      {
-        "skill": {
-          "name": "React",
-          "type": "technology"
-        }
-      }
-    ]
-  },
   "careerPreferences": {
     "contact": {
       "publicProfiles": [
