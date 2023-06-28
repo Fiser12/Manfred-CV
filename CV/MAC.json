@@ -8,13 +8,25 @@
     "profile": {
       "name": "Rubén",
       "surnames": "García Hernando",
-      "title": "Title"
+      "title": "Title",
+      "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJuYlLZidOTg0RRaaVHsSsNGU)",
+        "country": "España",
+        "region": "País Vasco",
+        "municipality": "Bilbao"
+      }
     }
   },
   "careerPreferences": {
     "contact": {
       "contactMails": [
         "fiser12@icloud.com"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "697861634",
+          "countryCode": "+34"
+        }
       ]
     },
     "status": "searchingActively"
