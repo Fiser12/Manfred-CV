@@ -41,6 +41,12 @@
           "name": "Swift",
           "type": "technology"
         }
+      },
+      {
+        "skill": {
+          "name": "SwiftUI",
+          "type": "technology"
+        }
       }
     ]
   },
