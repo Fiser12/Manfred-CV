@@ -47,6 +47,12 @@
           "name": "SwiftUI",
           "type": "technology"
         }
+      },
+      {
+        "skill": {
+          "name": "TypeScript",
+          "type": "technology"
+        }
       }
     ]
   },
