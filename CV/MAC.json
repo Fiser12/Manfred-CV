@@ -35,6 +35,12 @@
           "name": "React",
           "type": "technology"
         }
+      },
+      {
+        "skill": {
+          "name": "Swift",
+          "type": "technology"
+        }
       }
     ]
   },
