@@ -32,7 +32,11 @@
     "jobs": [
       {
         "organization": {
-          "name": "CERN"
+          "name": "CERN",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/06/28/63a8587f-e8e1-4943-815c-6747ffedb5e8_oip.jpeg",
+            "alt": "OIP.jpeg"
+          }
         },
         "roles": [
           {
