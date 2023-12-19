@@ -11,8 +11,8 @@
       "title": "Swift & iOS Developer",
       "description": "I am a developer with a great interest in technology and programming since always. I love discovering new ways of doing things and spend a lot of my free time researching on my own. Although my professional career has been related to Backend development, DevOps and Frontend I've always researched new fields. I wouldn't understand development without that exciting research component.\n\nThis is my GitHub profile: https://github.com/Fiser12",
       "avatar": {
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/19/317142f8-89ee-4158-b4bb-84df5076f557_linkedin-photo-37771.linkedin-photo-37771",
-        "alt": "23/12/19/317142f8-89ee-4158-b4bb-84df5076f557_linkedin-photo-37771.linkedin-photo-37771"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/19/766eec0e-caee-437c-8f92-4c76fa11aa14_linkedin-photo-37771.linkedin-photo-37771",
+        "alt": "23/12/19/766eec0e-caee-437c-8f92-4c76fa11aa14_linkedin-photo-37771.linkedin-photo-37771"
       },
       "location": {
         "notes": "Autocompleted using Google Maps API (id: ChIJuYlLZidOTg0RRaaVHsSsNGU)",
@@ -33,6 +33,93 @@
       {
         "type": "other",
         "URL": "https://synctionlabs.com"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Tyris Software",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/19/9c127d59-2367-4391-9cee-09ab3197ad94_linkedin-photo-37771.linkedin-photo-37771",
+            "alt": "23/12/19/9c127d59-2367-4391-9cee-09ab3197ad94_linkedin-photo-37771.linkedin-photo-37771"
+          }
+        },
+        "roles": [
+          {
+            "name": "Senior Software Engineer",
+            "startDate": "2023-08-01",
+            "challenges": [
+              {
+                "description": "Skills: iOS · SwiftUI · Swift (Programming Language)"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "CERN",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/19/1ddd88fe-f1c9-47b0-9ce6-9157909d8f04_linkedin-photo-37771.linkedin-photo-37771",
+            "alt": "23/12/19/1ddd88fe-f1c9-47b0-9ce6-9157909d8f04_linkedin-photo-37771.linkedin-photo-37771"
+          }
+        },
+        "roles": [
+          {
+            "name": "Software Engineer",
+            "startDate": "2019-10-01",
+            "finishDate": "2022-09-30",
+            "challenges": [
+              {
+                "description": "I made the decision to come to Switzerland to work because I saw it as a great opportunity for me. I had not had such a clear opportunity until now that would allow me to progress so much on a personal and professional level, so I decided to take it.\n\nI have been working at CERN on the CERNphone project. I started working on the adaptation of the Linphone software as CERN's mobile clients (CERNphone mobile) for which I had to develop a Python server to allow Kamaillo to launch Push notifications to the mobile clients, this server is made with Python, Flask, Docker and uses Puppet in production deployment.\n\n\nFrom then on we focused on the development of the CERNphone Desktop App. This client makes use of React, Redux, Electron, WebSockets and SIP.JS as main technology stacks and is functional on Linux, Windows and MacOS. The project required a REST API in Python to manage the session as well as other services it provides to the application, the API is deployed in Openshift. Currently the project is deployed in production and more than 2000 people have migrated from Skype For Business to our solution.\n\nFollowing this, I have been working on the Migrations Wizzard website, to migrate users from Skype For Business. This is a management tool for those responsible for user groups to manage and streamline their work of migrating users.\n\n\nFinally, I am working on the migration of the old Resources Portal to the new one, for which we make use of OpenShift, React, Redux and Event Handling, the idea is to simplify and make the user interface more user friendly with the migration, as well as adapt it to new technologies. By migrating our entire technology stack to React and Redux, we have managed to greatly facilitate the management of all the services we have.\n\nI have tried to make my main contribution to the team by standardising good development methodologies and simple technologies to reduce the cost of maintaining them."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "LIN3S",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/19/6d3dd87d-3cf5-48b7-af0c-0005dfe96513_linkedin-photo-37771.linkedin-photo-37771",
+            "alt": "23/12/19/6d3dd87d-3cf5-48b7-af0c-0005dfe96513_linkedin-photo-37771.linkedin-photo-37771"
+          }
+        },
+        "roles": [
+          {
+            "name": "Software Web Developer",
+            "startDate": "2017-03-01",
+            "finishDate": "2019-09-30",
+            "challenges": [
+              {
+                "description": "I started as an intern until September 2018, First of all I learned how to make a good development of a project, I have worked on backend projects mainly with Symfony and Sylius. Normally working creating REST APIs. I have also handled Drupal 8 in a big project, the Euskaltel's website. I have programmed part of the Backend of the new Euskaltel website, including its Drupal administration system and its shopping cart through a REST API, applying Domain Driven Desing, CQRS and Hexagonal Architecture methodologies.\n\n\nAfter that phase, I started with more responsibilities, due to I got a lot of knowledge about how to handle the architecture of a project, I was in charge of one Backend of the company that I developed and after that I migrated the old frontend development to a new one with technologies like React and Redux. In that moment I had the responsibilities of a Software architect.\n\n\nFinally I used my experience in Lin3s to do a final master project related to best practices in software development based on a market example in a real company. Showing with a practical example how to make use of Domain Driven Design, BDD, Event Handling, testing, Docker and setting up a DevOps environment."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Fundación Deusto",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/19/cca40e3a-c12a-4331-97b6-6db74df6b434_linkedin-photo-37771.linkedin-photo-37771",
+            "alt": "23/12/19/cca40e3a-c12a-4331-97b6-6db74df6b434_linkedin-photo-37771.linkedin-photo-37771"
+          }
+        },
+        "roles": [
+          {
+            "name": "Research Fellow",
+            "startDate": "2015-07-01",
+            "finishDate": "2016-10-31",
+            "challenges": [
+              {
+                "description": "I was working as an intern for 1 year and a half on a project for some local industries that also served as my end-of-degree project. The project consisted of an event manager for IoT that would allow to configure a programmable rules engine through a GUI to send response events to other devices."
+              }
+            ]
+          }
+        ]
       }
     ]
   },
