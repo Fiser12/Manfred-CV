@@ -1,8 +1,8 @@
 {
-  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
   "settings": {
     "language": "EN",
-    "MACVersion": "0.3"
+    "MACVersion": "0.5"
   },
   "aboutMe": {
     "profile": {
@@ -22,6 +22,14 @@
       }
     },
     "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/rgarciah/"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/Fiser12"
+      },
       {
         "type": "other",
         "URL": "https://synctionlabs.com"
@@ -114,10 +122,12 @@
     "languages": [
       {
         "name": "EN",
+        "fullName": "Inglés",
         "level": "Full professional proficiency"
       },
       {
         "name": "ES",
+        "fullName": "Español",
         "level": "Native or bilingual proficiency"
       }
     ],
@@ -175,7 +185,7 @@
         },
         {
           "URL": "https://github.com/Fiser12",
-          "type": "other"
+          "type": "github"
         }
       ],
       "contactMails": [
