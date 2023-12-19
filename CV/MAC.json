@@ -8,11 +8,11 @@
     "profile": {
       "name": "Rubén",
       "surnames": "García Hernando",
-      "title": "Swift & Web Developer",
-      "description": "I am a developer with a great interest in technology and programming since always. I love discovering new ways of doing things and spend a lot of my free time researching on my own. Although my professional career has been related to Backend development, DevOps and Frontend I've always researched new fields. I wouldn't understand development without that exciting research component.",
+      "title": "Swift & iOS Developer",
+      "description": "I am a developer with a great interest in technology and programming since always. I love discovering new ways of doing things and spend a lot of my free time researching on my own. Although my professional career has been related to Backend development, DevOps and Frontend I've always researched new fields. I wouldn't understand development without that exciting research component.\n\nThis is my GitHub profile: https://github.com/Fiser12",
       "avatar": {
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/06/28/a9ba3f1c-51b4-4fea-bbd5-45a8b20e5bb9_836a906d-c2a9-47e6-b.jpeg",
-        "alt": "836A906D-C2A9-47E6-B798-104AC82EECE1_1_105_c.jpeg"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/19/41379e83-5a70-4083-963f-0f1791e74a1d_linkedin-photo-37771.linkedin-photo-37771",
+        "alt": "23/12/19/41379e83-5a70-4083-963f-0f1791e74a1d_linkedin-photo-37771.linkedin-photo-37771"
       },
       "location": {
         "notes": "Autocompleted using Google Maps API (id: ChIJuYlLZidOTg0RRaaVHsSsNGU)",
@@ -24,7 +24,7 @@
     "relevantLinks": [
       {
         "type": "linkedin",
-        "URL": "https://www.linkedin.com/in/rgarciah/"
+        "URL": "https://linkedin.com/in/rgarciah"
       },
       {
         "type": "github",
@@ -33,88 +33,6 @@
       {
         "type": "other",
         "URL": "https://synctionlabs.com"
-      }
-    ]
-  },
-  "experience": {
-    "jobs": [
-      {
-        "organization": {
-          "name": "CERN",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/06/28/63a8587f-e8e1-4943-815c-6747ffedb5e8_oip.jpeg",
-            "alt": "OIP.jpeg"
-          }
-        },
-        "roles": [
-          {
-            "name": "Software Developer",
-            "startDate": "2019-09-01",
-            "finishDate": "2022-10-01",
-            "challenges": [
-              {
-                "description": "I decided to move to **Switzerland** to work at **CERN**, as it presented a fantastic opportunity for my career advancement. My work at CERN focused on the **CERNphone project**, which aimed to replace Skype for Business by integrating it with CERN's telecommunication systems.\n\nI was fortunate that the pandemic began just six months after I arrived at CERN. As you can imagine, it was a unique professional and personal experience to have endured this historic and challenging time at such a remarkable institution. The team I had the privilege of working with was composed of highly responsible and friendly individuals. Thanks to their support, we were able to overcome challenges and maintain a high level of productivity. Our team successfully refactored, fixed, and restructured a project that had been reassigned to us by CERN management.\n\n![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a5bc546a-3617-46a4-9d3b-3a76d7b9ecc0/Untitled.jpeg)\n\nInitially, my primary responsibility was the development of the **CERNphone Desktop App** for macOS, Windows, and Linux using **Electron**. The client application utilized **React, Redux, WebSockets, and SIP.JS** as its main technology stack. The project also required a **Python-based REST API** to manage sessions and other services provided to the app, which was deployed in **OpenShift**. The system is now in production, replacing Skype for Business, and serves over 5,000 users while handling approximately 30,000 calls daily.\n\nIn addition to the desktop application, our team developed web services and daemons to manage the call system in a user-friendly manner. We employed **OpenShift, Docker, Python, and Flask** for the backend, and **React-Redux and TypeScript** for the frontend. Our choice of technology stack allowed for agile development, efficient testing, and the implementation of both development and production environments, following **DevOps** principles. During this time, I enhanced my **Docker skills** through hands-on experience with **OpenShift and Kubernetes**, as well as additional training.\n\nSubsequently, we began working on the **CERNphone mobile applications** for Android and iOS. My focus was on **iOS development using Swift**. This experience marked my first professional encounter with **Swift and the Apple Development Program**, providing valuable learning and practical insights into deploying software for real users.\n\nThis opportunity proved to be highly enriching, particularly regarding the work environment. I collaborated with **multicultural teams**, communicated in English, managed software requirements, planned and delivered solutions, and provided in-person support to end-users from around the world. I also had the chance to concentrate on a **Swift-based project**, applying best practices in software development that I had acquired up to that point. Upon leaving CERN, I ensured a smooth knowledge transfer and successful completion of the project I had initiated."
-              }
-            ],
-            "competences": [
-              {
-                "name": "Docker",
-                "type": "technology"
-              },
-              {
-                "name": "OpenShift",
-                "type": "technology"
-              },
-              {
-                "name": "Python",
-                "type": "technology"
-              },
-              {
-                "name": "Swift",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Lin3s",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/06/28/eb368675-7534-4f11-8df5-a09662466e9c_lin3s.jpeg",
-            "alt": "lin3s.jpeg"
-          }
-        },
-        "roles": [
-          {
-            "name": "Full Stack Developer",
-            "startDate": "2017-03-01",
-            "finishDate": "2019-08-01",
-            "challenges": [
-              {
-                "description": "I began my career working on **backend projects**, primarily using **Symfony and Sylius** to create **REST APIs**. I also gained experience with **Drupal 8** while working on a major project for **Euskaltel's website**. My role involved programming part of the backend for the new site, including its Drupal administration system and shopping cart, through a REST API. I applied **Domain Driven Design, BDD and TDD testing, CQRS, and Clean Architecture** principles.\n\nThe **Euskaltel Web Project** was particularly useful in my professional development, as it taught me the importance of quality in large-scale projects. Despite eventually transitioning from backend to frontend programming, this project left a lasting impact on my approach to software development.\n\n![I worked in the custom shopping cart of the REST API of the euskatel API](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b75b1555-ede5-48df-9ad0-88f6709a8b70/Untitled.png)\n\nI worked in the custom shopping cart of the REST API of the euskatel API\n\nDuring this time, I was also working on my **Master's thesis**, which focused on best practices in project development, particularly in the backend. My research expanded to include **Docker and DevOps**, and I later applied this knowledge to deploy new projects using Docker and automate testing, development, and production environments.\n\nAfter completing the Euskaltel project and my thesis, I took on increased responsibilities and started a new internal project for a client. I first focused on organizing the backend and implementing **Docker and DevOps** before moving on to redesign the frontend. To do so, I acquired training in **React and Redux** and developed the frontend architecture.\n\nThis project provided valuable learning experiences, as it was my first time assuming the role of a **software architect**. The system I developed replaced the old management system and is being configured for new customers. It also allowed me to apply my backend knowledge of good development practices to frontend development using React and Redux.\n\nDuring this period, I continued working on small personal projects in **Swift**, including a tvOS application. I was drawn to Swift due to its strong typing and the quality of software it enabled. In addition, I purchased a home server and set up **Docker-based systems** for automating information backups and managing home automation. This experience further deepened my understanding of Docker and high availability services."
-              }
-            ],
-            "competences": [
-              {
-                "name": "Docker",
-                "type": "technology"
-              },
-              {
-                "name": "Git",
-                "type": "technology"
-              },
-              {
-                "name": "React",
-                "type": "technology"
-              },
-              {
-                "name": "Symfony",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
       }
     ]
   },
@@ -180,7 +98,7 @@
     "contact": {
       "publicProfiles": [
         {
-          "URL": "https://www.linkedin.com/in/rgarciah/",
+          "URL": "https://linkedin.com/in/rgarciah",
           "type": "linkedin"
         },
         {
