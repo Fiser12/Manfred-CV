@@ -258,6 +258,10 @@
         {
           "name": "Apple iOS",
           "type": "technology"
+        },
+        {
+          "name": "Swift",
+          "type": "technology"
         }
       ],
       "preferredRoles": [
