@@ -287,7 +287,11 @@
         "details": {
           "name": "SyncTion Core",
           "description": "I released the main code of my app SyncTion to the public with the idea of allow to my customers to made modifications if they wanted.",
-          "URL": "https://github.com/Nexo-Labs/SyncTionCore"
+          "URL": "https://github.com/Nexo-Labs/SyncTionCore",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/05/14/79b1cdce-5781-4971-81d9-c413265f5a65_logo-odqqvbdt.svg",
+            "alt": "logo-ODQQVBDT.svg"
+          }
         },
         "type": "openSource",
         "roles": [
