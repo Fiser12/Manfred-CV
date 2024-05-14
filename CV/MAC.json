@@ -316,7 +316,11 @@
         "details": {
           "name": "Launch of SyncTion to the App Store",
           "description": "Launching my first product to the market as a personal project and entrepreneurial venture was a significant milestone for me. This experience required me to adopt an entrepreneurial mindset, taking on and prioritizing numerous responsibilities. \n\nI had to think strategically about the future of my product, including deciding which tasks to delegate and identifying the target markets. This moment was particularly special because it marked the beginning of my journey as an entrepreneur.",
-          "URL": "https://synctionlabs.com"
+          "URL": "https://synctionlabs.com",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/05/14/1525cc85-b409-418f-9c89-ce22225a75e1_logo-odqqvbdt.svg",
+            "alt": "logo-ODQQVBDT.svg"
+          }
         },
         "type": "launch",
         "publishingDate": "2023-05-01",
