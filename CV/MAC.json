@@ -11,8 +11,8 @@
       "title": "Engineer, Product Owner, Swift & iOS & Docker",
       "description": "I am a developer with a great interest in technology and programming since always. I love discovering new ways of doing things and spend a lot of my free time researching on my own. Although my professional career has been related to Backend development, DevOps and Frontend I've always researched new fields. I wouldn't understand development without that exciting research component.\n\nThis is my GitHub profile: https://github.com/Fiser12",
       "avatar": {
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/05/14/3f7e04d2-b7d5-4bca-803f-b43402f4e35c_linkedin-photo-37771.linkedin-photo-37771",
-        "alt": "24/05/14/3f7e04d2-b7d5-4bca-803f-b43402f4e35c_linkedin-photo-37771.linkedin-photo-37771"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/05/14/e4e74449-7e14-4ac9-90a4-5198886d5eb9_linkedin-photo-37771.linkedin-photo-37771",
+        "alt": "24/05/14/e4e74449-7e14-4ac9-90a4-5198886d5eb9_linkedin-photo-37771.linkedin-photo-37771"
       },
       "location": {
         "notes": "Autocompleted using Google Maps API (id: ChIJuYlLZidOTg0RRaaVHsSsNGU)",
@@ -261,5 +261,8 @@
       ]
     },
     "status": "searchingActively"
+  },
+  "manfredSpecificData": {
+    "desiredJobDescription": "I am a passionate developer with a lifelong interest in technology and programming. My curiosity drives me to explore new methods and techniques, dedicating much of my free time to independent research. While my professional experience has primarily focused on backend development, DevOps, Frontend and now in Swift Lang and iOS, I have always enjoyed venturing into new areas. For me, the excitement of discovery is an essential aspect of development.\n\n### What am I looking for?\n\n1. **Challenging projects**: Working on innovative and demanding projects to expand my knowledge of iOS development and Swift.\n2. **Teamwork**: Joining a collaborative team of developers who share a commitment to creating high-quality iOS applications.\n3. **Mentorship**: Seeking experienced mentors to guide me through the intricacies of iOS development and best practices.\n4. **Continuous learning**: Staying updated with the latest trends and technologies in iOS development and finding opportunities for professional growth."
   }
 }
