@@ -342,7 +342,11 @@
       {
         "details": {
           "name": "Migrating to Geneva to work at CERN",
-          "description": "Migrating to another country and working there was a difficult but outstanding experience for me. It changed me both personally and professionally. I consider it to be what made me a real adult."
+          "description": "Migrating to another country and working there was a difficult but outstanding experience for me. It changed me both personally and professionally. I consider it to be what made me a real adult.",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/05/14/5801ad02-e20f-4c06-a20c-da2c739edd8c_flag_of_switzerland_.svg",
+            "alt": "Flag_of_Switzerland_(Pantone).svg"
+          }
         },
         "type": "achievement",
         "publishingDate": "2019-10-01"
