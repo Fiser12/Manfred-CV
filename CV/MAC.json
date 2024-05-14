@@ -292,6 +292,25 @@
       },
       {
         "details": {
+          "name": "Launch of SyncTion to the App Store",
+          "description": "Launching my first product to the market as a personal project and entrepreneurial venture was a significant milestone for me. This experience required me to adopt an entrepreneurial mindset, taking on and prioritizing numerous responsibilities. \n\nI had to think strategically about the future of my product, including deciding which tasks to delegate and identifying the target markets. This moment was particularly special because it marked the beginning of my journey as an entrepreneur.",
+          "URL": "https://synctionlabs.com"
+        },
+        "type": "launch",
+        "publishingDate": "2023-05-01",
+        "relatedCompetences": [
+          {
+            "name": "Swift",
+            "type": "technology"
+          },
+          {
+            "name": "SwiftUI",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "Migrating to Geneva to work at CERN",
           "description": "Migrating to another country and working there was a difficult but outstanding experience for me. It changed me both personally and professionally. I consider it to be what made me a real adult."
         },
