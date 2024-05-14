@@ -450,6 +450,16 @@
         "finishDate": "2016-01-01"
       },
       {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "ITILv4 Foundation Certificate in IT Service Managment",
+        "startDate": "2018-12-01",
+        "institution": {
+          "name": "PeopleCertPeopleCert",
+          "description": "Credential ID: 513709"
+        }
+      },
+      {
         "studyType": "officialDegree",
         "degreeAchieved": true,
         "name": "Master of Engineering - MEng, Computer engineering",
