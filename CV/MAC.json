@@ -127,6 +127,14 @@
                 "type": "technology"
               },
               {
+                "name": "Figma",
+                "type": "technology"
+              },
+              {
+                "name": "Jenkins",
+                "type": "technology"
+              },
+              {
                 "name": "Swift",
                 "type": "technology"
               },
