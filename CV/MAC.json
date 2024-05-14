@@ -306,6 +306,23 @@
             ]
           }
         ]
+      },
+      {
+        "details": {
+          "name": "ReclamaHoy",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/05/14/689669e5-3134-4732-8e39-675d4d9a47eb_rnyzaz4l_400x400.jpg",
+            "alt": "RnYzAz4L_400x400.jpg"
+          }
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2020-02-01",
+            "finishDate": "2020-10-01"
+          }
+        ]
       }
     ],
     "publicArtifacts": [
@@ -636,6 +653,9 @@
     ],
     "desiredJobDescription": "I am a passionate developer with a lifelong interest in technology and programming. My curiosity drives me to explore new methods and techniques, dedicating much of my free time to independent research. While my professional experience has primarily focused on backend development, DevOps, Frontend and now in Swift Lang and iOS, I have always enjoyed venturing into new areas. For me, the excitement of discovery is an essential aspect of development.\n\n### What am I looking for?\n\n1. **Challenging projects**: Working on innovative and demanding projects to expand my knowledge of iOS development and Swift.\n2. **Teamwork**: Joining a collaborative team of developers who share a commitment to creating high-quality iOS applications.\n3. **Mentorship**: Seeking experienced mentors to guide me through the intricacies of iOS development and best practices.\n4. **Continuous learning**: Staying updated with the latest trends and technologies in iOS development and finding opportunities for professional growth.",
     "projects": [
+      {
+        "name": "ReclamaHoy"
+      },
       {
         "name": "Sarekin Web"
       },
