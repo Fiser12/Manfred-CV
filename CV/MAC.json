@@ -260,7 +260,15 @@
           "type": "technology"
         },
         {
+          "name": "Docker",
+          "type": "technology"
+        },
+        {
           "name": "Swift",
+          "type": "technology"
+        },
+        {
+          "name": "SwiftUI",
           "type": "technology"
         }
       ],
