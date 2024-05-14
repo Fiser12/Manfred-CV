@@ -46,26 +46,6 @@
     "jobs": [
       {
         "organization": {
-          "name": "Fundación Deusto",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/05/14/77745109-1105-4ca1-99b6-414ca9f2c321_linkedin-photo-37771.linkedin-photo-37771",
-            "alt": "24/05/14/77745109-1105-4ca1-99b6-414ca9f2c321_linkedin-photo-37771.linkedin-photo-37771"
-          }
-        },
-        "roles": [
-          {
-            "name": "Research Fellow",
-            "startDate": "2024-05-14",
-            "challenges": [
-              {
-                "description": "I was working as an intern for 1 year and a half on a project for some local industries that also served as my end-of-degree project. The project consisted of an event manager for IoT that would allow to configure a programmable rules engine through a GUI to send response events to other devices."
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
           "name": "Naiz Fit",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/05/14/5eddde59-d8cf-48db-b525-a65bb83572f8_linkedin-photo-37771.linkedin-photo-37771",
@@ -225,6 +205,41 @@
               },
               {
                 "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "Symfony",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Fundación Deusto",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/05/14/77745109-1105-4ca1-99b6-414ca9f2c321_linkedin-photo-37771.linkedin-photo-37771",
+            "alt": "24/05/14/77745109-1105-4ca1-99b6-414ca9f2c321_linkedin-photo-37771.linkedin-photo-37771"
+          }
+        },
+        "roles": [
+          {
+            "name": "Research Fellow",
+            "startDate": "2015-07-01",
+            "finishDate": "2016-10-01",
+            "challenges": [
+              {
+                "description": "I was working as an intern for 1 year and a half on a project for some local industries that also served as my end-of-degree project. The project consisted of an event manager for IoT that would allow to configure a programmable rules engine through a GUI to send response events to other devices."
+              }
+            ],
+            "competences": [
+              {
+                "name": ".NET",
+                "type": "technology"
+              },
+              {
+                "name": "PHP",
                 "type": "technology"
               },
               {
