@@ -11,8 +11,8 @@
       "title": "Engineer, Product Owner, Swift & iOS & Docker",
       "description": "I am a developer with a great interest in technology and programming since always. I love discovering new ways of doing things and spend a lot of my free time researching on my own. Although my professional career has been related to Backend development, DevOps and Frontend I've always researched new fields. I wouldn't understand development without that exciting research component.\n\nThis is my GitHub profile: https://github.com/Fiser12",
       "avatar": {
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/05/14/bffe2fea-373c-4228-879d-07acbd98b6e2_linkedin-photo-37771.linkedin-photo-37771",
-        "alt": "24/05/14/bffe2fea-373c-4228-879d-07acbd98b6e2_linkedin-photo-37771.linkedin-photo-37771"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/05/14/3f7e04d2-b7d5-4bca-803f-b43402f4e35c_linkedin-photo-37771.linkedin-photo-37771",
+        "alt": "24/05/14/3f7e04d2-b7d5-4bca-803f-b43402f4e35c_linkedin-photo-37771.linkedin-photo-37771"
       },
       "location": {
         "notes": "Autocompleted using Google Maps API (id: ChIJuYlLZidOTg0RRaaVHsSsNGU)",
@@ -42,8 +42,8 @@
         "organization": {
           "name": "Fundación Deusto",
           "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/05/14/8458a300-f526-4cc7-ad04-5ce39fd20e73_linkedin-photo-37771.linkedin-photo-37771",
-            "alt": "24/05/14/8458a300-f526-4cc7-ad04-5ce39fd20e73_linkedin-photo-37771.linkedin-photo-37771"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/05/14/77745109-1105-4ca1-99b6-414ca9f2c321_linkedin-photo-37771.linkedin-photo-37771",
+            "alt": "24/05/14/77745109-1105-4ca1-99b6-414ca9f2c321_linkedin-photo-37771.linkedin-photo-37771"
           }
         },
         "roles": [
@@ -62,8 +62,8 @@
         "organization": {
           "name": "LIN3S",
           "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/05/14/2ee820f8-ef1a-45e6-b550-c0b9d2206c79_linkedin-photo-37771.linkedin-photo-37771",
-            "alt": "24/05/14/2ee820f8-ef1a-45e6-b550-c0b9d2206c79_linkedin-photo-37771.linkedin-photo-37771"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/05/14/1ee87027-e6cd-4d32-a8e7-1c53d5b4c6ea_linkedin-photo-37771.linkedin-photo-37771",
+            "alt": "24/05/14/1ee87027-e6cd-4d32-a8e7-1c53d5b4c6ea_linkedin-photo-37771.linkedin-photo-37771"
           }
         },
         "roles": [
@@ -82,8 +82,8 @@
         "organization": {
           "name": "CERN",
           "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/05/14/199f4e49-11dc-4148-8807-d2fe47ff3be9_linkedin-photo-37771.linkedin-photo-37771",
-            "alt": "24/05/14/199f4e49-11dc-4148-8807-d2fe47ff3be9_linkedin-photo-37771.linkedin-photo-37771"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/05/14/02e2acbe-6dfd-42ac-b47b-5de7f205137e_linkedin-photo-37771.linkedin-photo-37771",
+            "alt": "24/05/14/02e2acbe-6dfd-42ac-b47b-5de7f205137e_linkedin-photo-37771.linkedin-photo-37771"
           }
         },
         "roles": [
@@ -102,8 +102,8 @@
         "organization": {
           "name": "Tyris Software",
           "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/05/14/92a9024b-6f17-4d31-baa1-d81ffe24c6bf_linkedin-photo-37771.linkedin-photo-37771",
-            "alt": "24/05/14/92a9024b-6f17-4d31-baa1-d81ffe24c6bf_linkedin-photo-37771.linkedin-photo-37771"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/05/14/47aebc98-f628-4208-92e7-a0cdcbbd437a_linkedin-photo-37771.linkedin-photo-37771",
+            "alt": "24/05/14/47aebc98-f628-4208-92e7-a0cdcbbd437a_linkedin-photo-37771.linkedin-photo-37771"
           }
         },
         "roles": [
@@ -122,8 +122,8 @@
         "organization": {
           "name": "Naiz Fit",
           "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/05/14/97e26227-8222-4a6a-8838-8a01e33f6cef_linkedin-photo-37771.linkedin-photo-37771",
-            "alt": "24/05/14/97e26227-8222-4a6a-8838-8a01e33f6cef_linkedin-photo-37771.linkedin-photo-37771"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/05/14/5eddde59-d8cf-48db-b525-a65bb83572f8_linkedin-photo-37771.linkedin-photo-37771",
+            "alt": "24/05/14/5eddde59-d8cf-48db-b525-a65bb83572f8_linkedin-photo-37771.linkedin-photo-37771"
           }
         },
         "roles": [
@@ -190,6 +190,50 @@
           "name": "TypeScript",
           "type": "technology"
         }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Engineering Degree, Computer Engineering",
+        "startDate": "2012-01-01",
+        "institution": {
+          "name": "University of Deusto",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/05/14/a7cd319c-27df-4fd8-aea0-560eb85af2cb_linkedin-photo-37771.linkedin-photo-37771",
+            "alt": "24/05/14/a7cd319c-27df-4fd8-aea0-560eb85af2cb_linkedin-photo-37771.linkedin-photo-37771"
+          }
+        },
+        "finishDate": "2016-01-01"
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Master of Engineering - MEng, Computer engineering",
+        "startDate": "2016-01-01",
+        "institution": {
+          "name": "University of Deusto",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/05/14/59d2db8e-cc4e-477e-9b41-cb863cc4f385_linkedin-photo-37771.linkedin-photo-37771",
+            "alt": "24/05/14/59d2db8e-cc4e-477e-9b41-cb863cc4f385_linkedin-photo-37771.linkedin-photo-37771"
+          }
+        },
+        "finishDate": "2018-06-30"
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Swift Full Stack Bootcamp 2023",
+        "startDate": "2023-03-01",
+        "institution": {
+          "name": "Apple Coding Academy",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/05/14/ab188882-a37a-49ca-8479-248540d1ab97_linkedin-photo-37771.linkedin-photo-37771",
+            "alt": "24/05/14/ab188882-a37a-49ca-8479-248540d1ab97_linkedin-photo-37771.linkedin-photo-37771"
+          }
+        },
+        "finishDate": "2023-09-30"
       }
     ]
   },
