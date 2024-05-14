@@ -235,6 +235,14 @@
         },
         "finishDate": "2023-09-30"
       }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Strategic vision",
+          "type": "practice"
+        }
+      }
     ]
   },
   "careerPreferences": {
