@@ -135,7 +135,26 @@
         "roles": [
           {
             "name": "Product Owner & Senior iOS Developer",
-            "startDate": "2024-05-14"
+            "startDate": "2024-02-01",
+            "challenges": [
+              {
+                "description": "My decision to join NaizFit was driven by a desire for challenges and a longstanding interest in understanding the **dynamics of entrepreneurship from the inside**. I believed that joining a well-established startup was the perfect way to achieve this. In this regard, the most valuable lesson I learned at **NaizFit** was how to build a company culture where everyone feels like part of a family.\n\nDespite my brief tenure at **NaizFit**, it was there that I found an exceptionally rewarding work environment, and it has been one of the briefest yet most enriching experiences of my professional career. \n\nInitially hired to develop the **iOS application**, I quickly needed to take the lead on a legacy Android project. To meet this challenge, I learned **Kotlin, Jetpack Compose, and Android from scratch**. NaizFit was notable for its excellent **CI infrastructure**, assembled with **limited resources**, and a team that excelled in working harmoniously and being fully committed to the project's goals. \n\nUnfortunately, due to budget cuts by investors and a subsequent workforce reduction, I had to leave the company. During my time there, I not only advanced the initial development of a project on iOS using the **iOS 17** stack but also became extensively familiar with Android and Kotlin, and took on responsibilities for parts of the backend developed in **Scala** and learning about the CI infrastructure. Although originally hired as an iOS app developer, my role quickly evolved into **Product Owner and Tech Lead, taking full responsibility for an entire project**."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Android",
+                "type": "technology"
+              },
+              {
+                "name": "Swift",
+                "type": "technology"
+              },
+              {
+                "name": "SwiftUI",
+                "type": "technology"
+              }
+            ]
           }
         ]
       }
