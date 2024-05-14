@@ -310,6 +310,7 @@
       {
         "details": {
           "name": "ReclamaHoy",
+          "description": "Before departing for CERN, I decided to help a friend with a project he had in mind. As a lawyer, he was anticipating a Supreme Court ruling on \"revolving credit cards.\" He believed that the banks would be ordered to pay compensation and wanted to attract clients to file claims.\n\nWe collaborated with a digital marketing agency called **Binima** and, within a few months, set up a **landing page  and profiles in social networks**. As soon as the court ruling was issued, we began advertising on social media platforms. To our surprise, the campaign gained significant traction and attracted a considerable number of clients. Although the legal proceedings for this project are still ongoing, our marketing efforts have long been completed.\n\nThis project allowed us to gain practical knowledge about how digital marketing works and experience a small entrepreneurship adventure with limited investment costs.",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/05/14/689669e5-3134-4732-8e39-675d4d9a47eb_rnyzaz4l_400x400.jpg",
             "alt": "RnYzAz4L_400x400.jpg"
@@ -319,8 +320,8 @@
         "roles": [
           {
             "name": "Developer",
-            "startDate": "2020-02-01",
-            "finishDate": "2020-10-01"
+            "startDate": "2019-06-01",
+            "finishDate": "2020-06-01"
           }
         ]
       }
