@@ -277,7 +277,11 @@
       {
         "details": {
           "name": "Assuming the responsibilities of Product Owner at NaizFit",
-          "description": "When I started at NaizFit, the idea was that my only role would be to develop the iOS app for the company on my own. However, due to the circumstances of the project, I had to assume complete responsibility for both the technical and strategic aspects of the project."
+          "description": "When I started at NaizFit, the idea was that my only role would be to develop the iOS app for the company on my own. However, due to the circumstances of the project, I had to assume complete responsibility for both the technical and strategic aspects of the project.",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/05/14/fe6104b1-c49a-4463-ba75-eab6b817c9c1_knjd-p40_400x400.png",
+            "alt": "knjd-p40_400x400.png"
+          }
         },
         "type": "achievement",
         "publishingDate": "2024-02-01",
