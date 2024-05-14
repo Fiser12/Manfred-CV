@@ -106,26 +106,6 @@
       },
       {
         "organization": {
-          "name": "Tyris Software",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/05/14/47aebc98-f628-4208-92e7-a0cdcbbd437a_linkedin-photo-37771.linkedin-photo-37771",
-            "alt": "24/05/14/47aebc98-f628-4208-92e7-a0cdcbbd437a_linkedin-photo-37771.linkedin-photo-37771"
-          }
-        },
-        "roles": [
-          {
-            "name": "Senior Software Engineer",
-            "startDate": "2024-05-14",
-            "challenges": [
-              {
-                "description": "Skills: SwiftUI · Swift (Programming Language) · iOS"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
           "name": "Naiz Fit",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/05/14/5eddde59-d8cf-48db-b525-a65bb83572f8_linkedin-photo-37771.linkedin-photo-37771",
@@ -144,6 +124,49 @@
             "competences": [
               {
                 "name": "Android",
+                "type": "technology"
+              },
+              {
+                "name": "Swift",
+                "type": "technology"
+              },
+              {
+                "name": "SwiftUI",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Tyris Software",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/05/14/47aebc98-f628-4208-92e7-a0cdcbbd437a_linkedin-photo-37771.linkedin-photo-37771",
+            "alt": "24/05/14/47aebc98-f628-4208-92e7-a0cdcbbd437a_linkedin-photo-37771.linkedin-photo-37771"
+          }
+        },
+        "roles": [
+          {
+            "name": "Senior Software Engineer",
+            "startDate": "2023-08-01",
+            "finishDate": "2024-02-01",
+            "challenges": [
+              {
+                "description": "### Senior iOS Developer\n\nBefore completing my training at the Apple Coding bootcamp, I joined **Tyris** as a **Senior iOS Developer**. In this role, I had the opportunity to be part of a highly cohesive and effective team. During my tenure, I delved into functional programming and worked extensively with the **SwiftUI** technology stack. Among my most significant contributions were migrating the project to **Async Await** and implementing the **coordinator pattern** within the League team. \n\nAdditionally, our workflow at Tyris was structured around the Scrum methodology and the teams had the responsibilities properly segregated, for example with a testers team, a designers team and separated teams for Android, iOS, Backend and Frontend. We utilized tools such as Jira for project tracking, Figma for interface design or **Jenkins for CI**.\n\nDespite the fulfilling challenges, I decided to seek new opportunities due to the limited amount of work available, prompting me to look for roles that offered greater challenges."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Apple iOS",
+                "type": "technology"
+              },
+              {
+                "name": "Figma",
+                "type": "technology"
+              },
+              {
+                "name": "Jenkins",
                 "type": "technology"
               },
               {
