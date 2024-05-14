@@ -32,7 +32,8 @@
       },
       {
         "type": "other",
-        "URL": "https://synctionlabs.com"
+        "URL": "https://synctionlabs.com",
+        "description": "SyncTion Labs"
       }
     ]
   },
@@ -222,7 +223,7 @@
         "finishDate": "2018-06-30"
       },
       {
-        "studyType": "officialDegree",
+        "studyType": "unaccredited",
         "degreeAchieved": true,
         "name": "Swift Full Stack Bootcamp 2023",
         "startDate": "2023-03-01",
