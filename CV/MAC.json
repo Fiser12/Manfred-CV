@@ -274,6 +274,10 @@
         {
           "name": "SwiftUI",
           "type": "technology"
+        },
+        {
+          "name": "TypeScript",
+          "type": "technology"
         }
       ],
       "preferredRoles": [
