@@ -254,6 +254,12 @@
       ]
     },
     "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "Apple iOS",
+          "type": "technology"
+        }
+      ],
       "preferredRoles": [
         "Frontend Developer",
         "Mobile Developer",
