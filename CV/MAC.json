@@ -139,6 +139,16 @@
           }
         ]
       }
+    ],
+    "publicArtifacts": [
+      {
+        "details": {
+          "name": "Working in Geneva at CERN",
+          "description": "Migrating to another country and working there was a difficult but outstanding experience for me. It changed me both personally and professionally. I consider it to be what made me a real adult."
+        },
+        "type": "achievement",
+        "publishingDate": "2019-10-01"
+      }
     ]
   },
   "knowledge": {
