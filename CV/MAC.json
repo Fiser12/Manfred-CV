@@ -34,6 +34,11 @@
         "type": "other",
         "URL": "https://synctionlabs.com",
         "description": "SyncTion Labs"
+      },
+      {
+        "type": "other",
+        "URL": "https://nexolabs.notion.site",
+        "description": "Curriculum Vitae"
       }
     ]
   },
