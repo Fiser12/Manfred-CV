@@ -264,6 +264,10 @@
           "type": "technology"
         },
         {
+          "name": "React",
+          "type": "technology"
+        },
+        {
           "name": "Swift",
           "type": "technology"
         },
