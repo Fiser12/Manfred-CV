@@ -456,7 +456,11 @@
         "startDate": "2018-12-01",
         "institution": {
           "name": "PeopleCertPeopleCert",
-          "description": "Credential ID: 513709"
+          "description": "Credential ID: 513709",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/05/14/9dc444a6-78da-4b49-9b40-75075b409f03_peoplecert_group_log.jpeg",
+            "alt": "peoplecert_group_logo.jpeg"
+          }
         }
       },
       {
