@@ -254,6 +254,44 @@
     "publicArtifacts": [
       {
         "details": {
+          "name": "Assuming the responsibilities of Product Owner at NaizFit",
+          "description": "When I started at NaizFit, the idea was that my only role would be to develop the iOS app for the company on my own. However, due to the circumstances of the project, I had to assume complete responsibility for both the technical and strategic aspects of the project."
+        },
+        "type": "achievement",
+        "publishingDate": "2024-02-01",
+        "relatedCompetences": [
+          {
+            "name": "Android",
+            "type": "technology"
+          },
+          {
+            "name": "Docker",
+            "type": "technology"
+          },
+          {
+            "name": "Jenkins",
+            "type": "technology"
+          },
+          {
+            "name": "RabbitMQ",
+            "type": "technology"
+          },
+          {
+            "name": "Scala",
+            "type": "technology"
+          },
+          {
+            "name": "Swift",
+            "type": "technology"
+          },
+          {
+            "name": "SwiftUI",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "Migrating to Geneva to work at CERN",
           "description": "Migrating to another country and working there was a difficult but outstanding experience for me. It changed me both personally and professionally. I consider it to be what made me a real adult."
         },
